@@ -1,2 +1,5 @@
 
 bir suru kod yazdim
+
+git commit -m"":anlamli mesajlar
+versiyon 2
